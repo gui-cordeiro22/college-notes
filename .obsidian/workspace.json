@@ -11,17 +11,14 @@
             "id": "720c245dfd1a75b4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Redes de computadores e a internet/Mapa mental.canvas",
-                "viewState": {
-                  "x": 235.5,
-                  "y": -560,
-                  "zoom": -1.1989040684140784
-                }
+                "file": "Segurança da informação/Segurança da informação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa mental"
+              "icon": "lucide-file",
+              "title": "Segurança da informação"
             }
           }
         ]
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitetura de computadores/Arquitetura de Computadores.md",
+                "file": "Segurança da informação/Segurança da informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Arquitetura de Computadores"
+              "title": "Links inversos para Segurança da informação"
             }
           },
           {
@@ -175,8 +172,10 @@
   },
   "active": "720c245dfd1a75b4",
   "lastOpenFiles": [
-    "Redes de computadores e a internet/Redes de computadores e a internet.md",
     "Redes de computadores e a internet/Mapa mental.canvas",
+    "Segurança da informação/Segurança da informação.md",
+    "Segurança da informação",
+    "Redes de computadores e a internet/Redes de computadores e a internet.md",
     "Arquitetura de computadores/Arquitetura de Computadores.md",
     "Assets/Pasted image 20250820170440.png",
     "Assets",
