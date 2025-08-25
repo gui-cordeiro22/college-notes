@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "6f0320aaa24d6e14",
+    "type": "split",
+    "children": [
+      {
+        "id": "3337e71ee5b73de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "720c245dfd1a75b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Redes de computadores e a internet/Mapa mental.canvas",
+                "viewState": {
+                  "x": 235.5,
+                  "y": -560,
+                  "zoom": -1.1989040684140784
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa mental"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7fe6ee7f99b9409",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb58459498870dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b62bf1d5e1f03f75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "63ceaeeef8bdf050",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b9001de92a727eac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9351a41d7ec09cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "21408759d1bbd56a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cb43270877fc305",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arquitetura de computadores/Arquitetura de Computadores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Arquitetura de Computadores"
+            }
+          },
+          {
+            "id": "98e669a7158c4399",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arquitetura de computadores/Arquitetura de Computadores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Arquitetura de Computadores"
+            }
+          },
+          {
+            "id": "e57f50ee90326334",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a794e4df1fd22e19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arquitetura de computadores/Arquitetura de Computadores.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Arquitetura de Computadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "720c245dfd1a75b4",
+  "lastOpenFiles": [
+    "Redes de computadores e a internet/Redes de computadores e a internet.md",
+    "Redes de computadores e a internet/Mapa mental.canvas",
+    "Arquitetura de computadores/Arquitetura de Computadores.md",
+    "Assets/Pasted image 20250820170440.png",
+    "Assets",
+    "Assets/Pasted image 20250820175014.png",
+    "Arquitetura de computadores"
+  ]
+}

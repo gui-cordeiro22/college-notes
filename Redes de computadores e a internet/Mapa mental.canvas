@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"633a57bd27621918","type":"text","text":"# **Redes de computadores e a internet**","x":-20,"y":-1280,"width":560,"height":60,"color":"5"},
+		{"id":"aa66dba43d2a0596","type":"text","text":"Dispositivo (computador, celular, smart-tv...)","x":-320,"y":-1160,"width":250,"height":60,"color":"5"},
+		{"id":"0c52f8bd1a896e1f","type":"text","text":"Dificilmente ele rodará somente com os dados contidos na sua memória local.","x":-226,"y":-1040,"width":356,"height":80,"color":"5"},
+		{"id":"e77a0c0b76fbba17","type":"text","text":"Sendo assim, necessário consumir esses dados de algum lugar.","x":-551,"y":-987,"width":250,"height":107,"color":"5"},
+		{"id":"34e89afddacb7495","type":"text","text":"Mas de onde?","x":-629,"y":-795,"width":250,"height":60,"color":"5"},
+		{"id":"961d21fa2dccba6c","type":"text","text":"Dados hospedados em servidores online para serem consumidos por meio da internet.","x":-301,"y":-735,"width":313,"height":100,"color":"5"},
+		{"id":"14138d544a12f116","type":"text","text":"Mas o que são redes de computadores?","x":400,"y":-1107,"width":250,"height":60,"color":"5"},
+		{"id":"79a075ec4413dc15","type":"text","text":"Redes de computadores é diferente de internet","x":242,"y":-979,"width":250,"height":60,"color":"5"},
+		{"id":"6bfb524dcc58dec0","type":"text","text":"Essas redes servem basicamente para compartilhar recursos e informações","x":525,"y":-946,"width":295,"height":106,"color":"5"},
+		{"id":"8891d37f70f757c2","type":"text","text":"Como funciona?","x":548,"y":-745,"width":172,"height":60,"color":"5"},
+		{"id":"952595a4eaa1a2a6","type":"text","text":"Em uma conexão básica temos: Um nó transmissor e um nó receptor ligados por um meio de comunicação","x":166,"y":-604,"width":250,"height":144,"color":"5"},
+		{"id":"9c93685475ffb29f","type":"text","text":"Mas qual é o objetivo dessa rede?","x":35,"y":-340,"width":263,"height":79,"color":"5"},
+		{"id":"99b3e853c0b982c5","type":"text","text":"Que algo saia do nó transmissor e chegue até o seu nó receptor","x":166,"y":-160,"width":272,"height":100,"color":"5"},
+		{"id":"49305b64c69358d9","type":"text","text":"São basicamente nós interligados por um meio de comunicação","x":720,"y":-1220,"width":250,"height":98,"color":"5"},
+		{"id":"32cf9b40df065f62","type":"text","text":"Em uma conexão mais complexa, consequentemente mais próxima da realidade teremos uma rede de interconexão.","x":820,"y":-580,"width":280,"height":158,"color":"5"},
+		{"id":"7d8cb5f7b5b664f0","type":"text","text":"Como funciona esse sistema?","x":700,"y":-304,"width":280,"height":60,"color":"5"},
+		{"id":"5c06a9d67d0b1301","x":516,"y":-100,"width":244,"height":80,"color":"5","type":"text","text":"Temos os mesmos nós: transmissor e receptor"},
+		{"id":"d07535f6d3472d23","x":423,"y":64,"width":257,"height":96,"color":"5","type":"text","text":"Porém eles não são ligados mais diretamente um ao outro"}
+	],
+	"edges":[
+		{"id":"6e1c78ad49c7ce2d","fromNode":"aa66dba43d2a0596","fromSide":"bottom","toNode":"0c52f8bd1a896e1f","toSide":"top","color":"5"},
+		{"id":"2b6c6248d8315f35","fromNode":"0c52f8bd1a896e1f","fromSide":"left","toNode":"e77a0c0b76fbba17","toSide":"right","color":"5"},
+		{"id":"8db21e418d5f18c1","fromNode":"e77a0c0b76fbba17","fromSide":"bottom","toNode":"34e89afddacb7495","toSide":"top","color":"5"},
+		{"id":"8581a20bedad37af","fromNode":"34e89afddacb7495","fromSide":"right","toNode":"961d21fa2dccba6c","toSide":"left","color":"5"},
+		{"id":"33b25490d8a70a20","fromNode":"633a57bd27621918","fromSide":"left","toNode":"aa66dba43d2a0596","toSide":"top","color":"5"},
+		{"id":"09170de8f3375749","fromNode":"633a57bd27621918","fromSide":"bottom","toNode":"14138d544a12f116","toSide":"top","color":"5"},
+		{"id":"73aa7e307adb5ebb","fromNode":"14138d544a12f116","fromSide":"bottom","toNode":"79a075ec4413dc15","toSide":"top","color":"5"},
+		{"id":"bae89bdbb84efb4f","fromNode":"14138d544a12f116","fromSide":"bottom","toNode":"6bfb524dcc58dec0","toSide":"top","color":"5"},
+		{"id":"74e87d934bad94b5","fromNode":"6bfb524dcc58dec0","fromSide":"bottom","toNode":"8891d37f70f757c2","toSide":"top","color":"5"},
+		{"id":"fcdc0c359169f28d","fromNode":"8891d37f70f757c2","fromSide":"left","toNode":"952595a4eaa1a2a6","toSide":"right","color":"5"},
+		{"id":"6aab716ea4f2f5e8","fromNode":"952595a4eaa1a2a6","fromSide":"bottom","toNode":"9c93685475ffb29f","toSide":"top","color":"5"},
+		{"id":"321d957c4abbdf8f","fromNode":"9c93685475ffb29f","fromSide":"bottom","toNode":"99b3e853c0b982c5","toSide":"top","color":"5"},
+		{"id":"c18b013313f19ff7","fromNode":"14138d544a12f116","fromSide":"right","toNode":"49305b64c69358d9","toSide":"left","color":"5"},
+		{"id":"49d772fd2654d869","fromNode":"8891d37f70f757c2","fromSide":"right","toNode":"32cf9b40df065f62","toSide":"left","color":"5"},
+		{"id":"4421f49500386b1d","fromNode":"32cf9b40df065f62","fromSide":"bottom","toNode":"7d8cb5f7b5b664f0","toSide":"top","color":"5"},
+		{"id":"627e9f4311d9e4db","fromNode":"7d8cb5f7b5b664f0","fromSide":"bottom","toNode":"5c06a9d67d0b1301","toSide":"top","color":"5"},
+		{"id":"855f6d618c2309c2","fromNode":"5c06a9d67d0b1301","fromSide":"bottom","toNode":"d07535f6d3472d23","toSide":"top","color":"5"}
+	]
+}
